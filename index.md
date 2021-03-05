@@ -1,7 +1,7 @@
 # Meneer Eenhoorn
 
 ## Emmauscollege
-[[f958a538]]
+[[emmauscollege]]
 
 ## Studies
 
