@@ -6,3 +6,4 @@
 ## Studies
 
 ## Personal
+[[python]]
