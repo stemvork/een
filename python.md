@@ -107,3 +107,6 @@ date: 2021-03-05T10:54
     	1. Know your collections
         1. Know your algorithms
         1. Know your libraries
+        
+* [x] [Tutorial: Kimberley Fessel - Let's Scrape the Web](https://github.com/kimfetti/Conferences/tree/master/PyCon_2020)
+	- Scraping basics, scraping Wikipedia, Selenium.
