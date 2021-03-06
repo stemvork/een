@@ -1,9 +1,9 @@
 # Meneer Eenhoorn
 
 ## Emmauscollege
-[[emmauscollege]]
+[[emmauscollege]]#
 
 ## Studies
 
 ## Personal
-[[python]]
+[[python]]#
