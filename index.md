@@ -6,4 +6,4 @@
 ## Studies
 
 ## Personal
-[[[python]]]
+[[[pycon2020]]]
