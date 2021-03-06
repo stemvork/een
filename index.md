@@ -1,10 +1,10 @@
 # Meneer Eenhoorn
 
 ## Emmauscollege
-[[[emmauscollege]]]
+* [[[emmauscollege]]]
 
 ## Studies
 
 ## Personal
-[[[pycon2020]]]
-[[gamedev]]]
+* [[[pycon2020]]]
+* [[[gamedev]]]
