@@ -2,9 +2,7 @@
 date: 2021-03-05T10:54
 ---
 
-# Python programming
-
-## PyCon 2020 Talks
+# PyCon 2020 Talks
 * [x] [Anthony Shaw - Why is Python slow](https://www.youtube.com/watch?v=I4nkgJdVZFA)
 	- About CPython and PyPy.
 	- About AOT and JIT, comparison of speed and language.
